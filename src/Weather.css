@@ -25,6 +25,10 @@
   list-style: none;
 }
 
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
 .Weather img {
   height: 64px;
   width: 64px;
